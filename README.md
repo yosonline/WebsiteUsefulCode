@@ -10,6 +10,7 @@ fit Image to parent
 
 Center Position
 > display: flex;
+
 > justify-content: center;
 > align-items: center;
 
