@@ -14,7 +14,7 @@ Center Position
 > align-items: center;  
 
 Mobile responsive
-> @media screen and (max-width: 766px){ }
+> @media screen and (max-width: 766px){ }  
 > @media screen and (min-width: 766px){ }
 
 Change cursor
