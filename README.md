@@ -2,10 +2,10 @@
 
 CSS
 ---
-add break line to Textarea
+Add break line to Textarea
 > white-space: pre-wrap;
 
-fit Image to parent
+Fit Image to parent
 > object-fit: cover;
 
 Center Position
